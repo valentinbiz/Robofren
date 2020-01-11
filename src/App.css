@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'FIFA Welcome';
+    font-style: normal;
+    font-weight: normal;
+    src: local('FIFA Welcome'), url('fifawelcome1.3.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'FIFA Welcome';
+    }
