@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robofren/static/css/main.f9a5d040.chunk.css",
+    "main.js": "/Robofren/static/js/main.016e6b8e.chunk.js",
+    "main.js.map": "/Robofren/static/js/main.016e6b8e.chunk.js.map",
+    "runtime-main.js": "/Robofren/static/js/runtime-main.5762f36b.js",
+    "runtime-main.js.map": "/Robofren/static/js/runtime-main.5762f36b.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robofren/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a98415d0.chunk.js": "/Robofren/static/js/2.a98415d0.chunk.js",
+    "static/js/2.a98415d0.chunk.js.map": "/Robofren/static/js/2.a98415d0.chunk.js.map",
+    "index.html": "/Robofren/index.html",
+    "precache-manifest.f24ed4274c3778c75dbdd0d2082f95e3.js": "/Robofren/precache-manifest.f24ed4274c3778c75dbdd0d2082f95e3.js",
+    "service-worker.js": "/Robofren/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robofren/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.f9a5d040.chunk.css.map": "/Robofren/static/css/main.f9a5d040.chunk.css.map",
+    "static/js/2.a98415d0.chunk.js.LICENSE": "/Robofren/static/js/2.a98415d0.chunk.js.LICENSE",
+    "static/media/App.css": "/Robofren/static/media/fifawelcome1.3.a5e91aa0.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5762f36b.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a98415d0.chunk.js",
+    "static/css/main.f9a5d040.chunk.css",
+    "static/js/main.016e6b8e.chunk.js"
+  ]
+}
